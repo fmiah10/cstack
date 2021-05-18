@@ -183,5 +183,4 @@ def parse_file( fname, edges, polygons, csystems, screen, color ):
                 display(screen)
             else:
                 save_extension(screen, args[0])
-        print(line + " done")
         c+= 1

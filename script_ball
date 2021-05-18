@@ -1,0 +1,139 @@
+push
+move
+250 250 0
+sphere
+0 0 0 240
+pop
+
+push
+move
+250 250 0
+rotate
+x 80
+rotate
+y 80
+sphere
+0 0 0 240
+pop
+
+push
+move
+250 250 0
+rotate
+x 50
+rotate
+y 50
+rotate
+z 50
+sphere
+0 0 0 240
+pop
+
+push
+move
+250 250 0
+rotate
+x -195
+rotate
+y -195
+rotate
+z -195
+sphere
+0 0 0 235
+pop
+
+push
+move
+250 250 0
+rotate
+x -105
+rotate
+y 195
+rotate
+z -105
+sphere
+0 0 0 235
+pop
+
+push
+move
+250 250 0
+rotate
+x 105
+rotate
+y -215
+rotate
+z 5
+sphere
+0 0 0 230
+pop
+
+push
+move
+250 250 0
+rotate
+x -5
+rotate
+y 135
+rotate
+z 315
+sphere
+0 0 0 230
+pop
+
+push
+move
+250 250 0
+rotate
+x 135
+rotate
+y -140
+rotate
+z 355
+sphere
+0 0 0 225
+pop
+
+push
+move
+250 250 0
+rotate
+x 265
+rotate
+y 55
+rotate
+z -985
+sphere
+0 0 0 225
+pop
+
+push
+move
+250 250 0
+rotate
+x 10
+rotate
+y -40
+rotate
+z 35
+sphere
+0 0 0 220
+pop
+
+push
+move
+250 250 0
+rotate
+x -170
+rotate
+y 60
+rotate
+z 235
+sphere
+0 0 0 220
+pop
+
+display
+
+save
+rasengan.png
