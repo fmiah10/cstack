@@ -81,7 +81,8 @@ def parse_file( fname, edges, polygons, csystems, screen, color ):
             polygons = []
 
         elif line == 'push':
-            csystems.append(csystems[-1])
+            new = copy.deepcopy(csystems[-1])
+            csystems.append(new)
 
         elif line == 'pop':
             csystems.pop()
